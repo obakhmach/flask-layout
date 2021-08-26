@@ -1,0 +1,1 @@
+APP_VERSION = "you_app_version"
